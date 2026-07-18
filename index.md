@@ -1,3 +1,8 @@
+---
+layout: home
+author_profile: true
+---
+
 Template
 
 ### Title page
